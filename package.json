@@ -1,0 +1,10 @@
+{
+  "name": "pjsua2-ts",
+  "version": "2.11.1",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/preset-env": "^7.15.8",
+    "typescript": "^4.4.4"
+  }
+}
